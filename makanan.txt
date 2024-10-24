@@ -1,0 +1,30 @@
+1,Keripik Kentang,10000,50,0
+2,Biskuit Coklat,15000,40,0
+3,Permen Jelly,5000,100,0
+4,Wafer Vanila,12000,60,0
+5,Popcorn Manis,20000,30,0
+6,Marshmallow,25000,35,0
+7,Kue Kering Keju,30000,25,0
+8,Coklat Batang,18000,45,0
+9,Keripik Pisang,10000,50,0
+10,Kacang Mete,40000,20,0
+11,Keripik Singkong,8000,55,0
+12,Biskuit Selai Stroberi,16000,40,0
+13,Permen Karet,2000,200,0
+14,Wafer Coklat,12000,60,0
+15,Popcorn Asin,20000,30,0
+16,Gummy Bears,22000,35,0
+17,Kue Kering Coklat,28000,30,0
+18,Coklat Almond,20000,40,0
+19,Keripik Jagung,9000,55,0
+20,Kacang Almond,45000,20,0
+21,Keripik Tempe,10000,50,0
+22,Biskuit Selai Blueberry,16000,40,0
+23,Permen Mint,3000,150,0
+24,Wafer Stroberi,12000,60,0
+25,Popcorn Caramel,22000,30,0
+26,Jelly Beans,24000,35,0
+27,Kue Kering Almond,32000,25,0
+28,Coklat Kacang Mede,22000,40,0
+29,Keripik Ubi,9000,55,0
+30,Kacang Pistachio,5000,1,0
